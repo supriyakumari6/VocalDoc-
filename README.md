@@ -1,13 +1,13 @@
-# 🎤 VocalDoc – Text to Speech Generator
+#  VocalDoc – Text to Speech Generator
 
-## 📌 Overview
+##  Overview
 
 VocalDoc is a simple web-based application that converts text into speech using a Flask backend and Murf API.
 The main goal of this project was to build a fast and efficient system that can take user input and generate multiple audio outputs in real time.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Convert text into natural-sounding speech
 * Generates 4+ audio outputs for a single input
@@ -16,7 +16,7 @@ The main goal of this project was to build a fast and efficient system that can 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Flask (Python)
@@ -24,7 +24,7 @@ The main goal of this project was to build a fast and efficient system that can 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User enters text in the input field
 2. The request is sent to the Flask backend
@@ -36,7 +36,7 @@ The main goal of this project was to build a fast and efficient system that can 
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 VocalDoc/
@@ -49,7 +49,7 @@ VocalDoc/
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 * Working with REST APIs and real-time data flow
 * Backend development using Flask
@@ -58,7 +58,7 @@ VocalDoc/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add voice customization (male/female, tone)
 * Save and manage generated audio files
@@ -66,6 +66,6 @@ VocalDoc/
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you have any suggestions or feedback, feel free to connect with me!
