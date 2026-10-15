@@ -3,7 +3,7 @@
 ##  Overview
 
 VocalDoc is a simple web-based application that converts text into speech using a Flask backend and Murf API.
-The main goal of this project was to build a fast and efficient system that can take user input and generate multiple audio outputs in real time.
+The main goal of this project was to build a fast and efficient system that can take user input and generate multiple audio outputs in real times.
 
 ---
 
