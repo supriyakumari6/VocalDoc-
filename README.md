@@ -6,7 +6,7 @@ VocalDoc is a simple web-based application that converts text into speech using 
 The main goal of this project was to build a fast and efficient system that can take user input and generate multiple audio outputs in real times.
 
 
-##  Features
+##  Feature
 
 * Convert text into natural-sounding speech
 * Generates 4+ audio outputs for a single input
