@@ -17,9 +17,9 @@ The main goal of this project was to build a fast and efficient system that can 
 
 ## Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Flask (Python)
-* **API:** Murf API (Text-to-Speech)
+* **Frontend: HTML, CSS, JavaScript
+* **Backend: Flask (Python)
+* **API: Murf API (Text-to-Speech)
 
 ---
 
