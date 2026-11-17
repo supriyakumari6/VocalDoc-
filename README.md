@@ -23,7 +23,7 @@ The main goal of this project was to build a fast and efficient system that can 
 
 ---
 
-##  How It Works
+##  How It Works:---
 
 1. User enters text in the input field
 2. The request is sent to the Flask backend
