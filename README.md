@@ -35,7 +35,7 @@ The main goal of this project was to build a fast and efficient system that can 
 
 
 
-##  Project Structure
+##  Project Structure:--
 
 ```
 VocalDoc/
