@@ -57,7 +57,7 @@ VocalDoc/
 
 ---
 
-##  Future Improvements
+##  Future Improvements:--
 
 * Add voice customization (male/female, tone)
 * Save and manage generated audio files
