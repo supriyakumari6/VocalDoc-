@@ -48,7 +48,7 @@ VocalDoc/
 
 ---
 
-##  What I Learned
+##  What I Learned:--
 
 * Working with REST APIs and real-time data flow
 * Backend development using Flask
