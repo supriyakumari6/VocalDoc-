@@ -13,7 +13,6 @@ The main goal of this project was to build a fast and efficient system that can 
 * Fast API response with smooth data flow
 * Simple and clean user interface
 
----
 
 ## Tech Stack:-
 
@@ -21,7 +20,6 @@ The main goal of this project was to build a fast and efficient system that can 
 * Backend: Flask (Python)
 * API: Murf API (Text-to-Speech)
 
----
 
 ##  How It Works:---
 
@@ -31,13 +29,12 @@ The main goal of this project was to build a fast and efficient system that can 
 4. Multiple audio outputs are generated and returned
 5. User can listen/download the audio
 
----
 
 
 
 ##  Project Structure:--
 
-```
+
 VocalDoc/
 │── static/
 │── templates/
@@ -46,7 +43,6 @@ VocalDoc/
 │── README.md
 ```
 
----
 
 ##  What I Learned:--
 
@@ -55,7 +51,7 @@ VocalDoc/
 * Handling multiple API responses efficiently
 * Improving response time and performance
 
----
+
 
 ##  Future Improvements:--
 
@@ -63,7 +59,7 @@ VocalDoc/
 * Save and manage generated audio files
 * Deploy the project online
 
----
+
 
 ##  Contact:--
 
