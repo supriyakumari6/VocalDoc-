@@ -41,7 +41,6 @@ VocalDoc/
 │── app.py
 │── requirements.txt
 │── README.md
-```
 
 
 ##  What I Learned:--
