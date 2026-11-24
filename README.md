@@ -11,7 +11,7 @@ The main goal of this project was to build a fast and efficient system that can 
 * Convert text into natural-sounding speech
 * Generates 4+ audio outputs for a single input
 * Fast API response with smooth data flow
-* Simple and clean user interface
+* Simple and clean user interface.
 
 
 ## Tech Stack:-
